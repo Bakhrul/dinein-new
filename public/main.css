@@ -102,10 +102,10 @@ a{
         font-size:16px
     }
     .sub-heading .title{
-        font-size:36px;
+        font-size:34px;
     }
     .sub-heading .desc{
-        font-size:17px
+        font-size:16px
     }
     .about-us .title{      
         font-size:24px
@@ -115,6 +115,15 @@ a{
     }
     .footer .title{
         font-size:24px
+    }
+    .footer-copy{
+        font-size:14px !important;
+    }
+    .about-us .features .sub-title{
+        font-size:17px
+    }
+    .about-us .features .sub-desc{
+        font-size:15px
     }
     
 }
