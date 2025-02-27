@@ -11,7 +11,14 @@ export default defineNuxtConfig({
       htmlAttrs: {
         lang: 'en'
       },
-      link: [{
+      link: [
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: "any",
+        href: '/logo.png'
+      },   
+      {
         rel: 'preconnect',
         href:'https://fonts.googleapis.com'
       },
